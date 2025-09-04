@@ -1,0 +1,4 @@
+UAV,heading_deg,speed,release_time,fuse_time,explode_time,explode_center_x,explode_center_y,explode_center_z
+FY1,180.0,90.0,0.0,2.5,2.5,17575.0,0.0,1769.375
+FY1,180.0,90.0,3.0,4.0,7.0,17170.0,0.0,1721.6
+FY1,180.0,90.0,4.0,4.0,8.0,17080.0,0.0,1721.6
